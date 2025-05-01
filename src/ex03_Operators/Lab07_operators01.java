@@ -1,4 +1,4 @@
-package Operators;
+package ex03_Operators;
 
 public class Lab07_operators01 {
     public static void main(String[] args) {

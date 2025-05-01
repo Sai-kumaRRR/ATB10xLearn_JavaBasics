@@ -1,4 +1,4 @@
-package Operators;
+package ex03_Operators;
 
 public class Lab15_Logical_operator09 {
     public static void main(String[] args) {

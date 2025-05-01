@@ -1,4 +1,4 @@
-package Operators;
+package ex03_Operators;
 
 public class Lab11_operators05 {
 

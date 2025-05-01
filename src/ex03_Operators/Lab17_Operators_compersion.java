@@ -1,4 +1,4 @@
-package Operators;
+package ex03_Operators;
 
 public class Lab17_Operators_compersion {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Literals;
+package ex02_Literals;
 
 public class Lab06_Literals01 {
 
