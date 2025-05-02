@@ -1,4 +1,4 @@
-package Interview_q_Hackerrank;
+package ex07_Interview_q_Hackerrank;
 
 import java.util.Scanner;
 
