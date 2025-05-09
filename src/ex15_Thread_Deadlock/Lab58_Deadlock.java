@@ -24,9 +24,9 @@ public class Lab58_Deadlock {
                 }
             }
 
-        }
+        };
 
 
-    
+
 
     }    }
