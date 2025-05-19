@@ -4,9 +4,11 @@ import static javax.print.attribute.standard.MediaSizeName.A;
 import static javax.print.attribute.standard.MediaSizeName.B;
 
 public class Lab61_Synchronizednotify{
-    public static <B, A, B, A> void main(String[] args) {
-        B obj2 = new B(st1, "B");
-        A obj1 = new A(st, "A");
+    public static <B, A, A, B> void main(String[] args) {
+        B obj2;
+        obj2 = new B( "B");
+        Object st;
+        new A("A");
 
 
     }
